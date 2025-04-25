@@ -32,17 +32,6 @@ Ce projet académique vise à comparer les performances des différentes technol
 **Perspectives** :  
 - Intégration des calculs dans un script Python pour automatiser l'analyse.  
 - Extension aux réseaux 6G et aux fibres optiques avancées (e.g., multicœur).  
-
----
-
-**Structure GitHub Recommandée** :  
-```
-📁 Telecom-Transmission-Analysis/
-├── 📄 README.md          # Résumé du projet (comme ci-dessus)
-├── 📁 Data/              # Fichiers de mesures (RSSI, cartes Cartoradio)
-├── 📁 Simulations/       # Scripts MATLAB/LTSpice
-├── 📁 Calculations/      # Détails des calculs (formules LaTeX/PDF)
-└── 📁 Docs/              # Rapport complet (livrable Word/PDF)
 ```
 
 **Mots-Clés** :  
