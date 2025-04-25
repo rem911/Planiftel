@@ -1,4 +1,4 @@
-# Planifitel – architecture réseau pour des objets connectés  
+# Planiftel – architecture réseau pour des objets connectés  
 
 **Contexte** :  
 Ce projet académique vise à comparer les performances des différentes technologies de transmission (4G/5G, câbles coaxiaux, fibres optiques) pour des applications de télécommunications haut débit. L'étude inclut des calculs théoriques, des simulations et des mesures pratiques pour évaluer les paramètres clés comme le débit, l'atténuation, la portée et le coût.  
